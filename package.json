@@ -1,0 +1,22 @@
+{
+  "name": "vidtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivantxo/symfony_vidtube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivantxo/symfony_vidtube/issues"
+  },
+  "homepage": "https://github.com/ivantxo/symfony_vidtube#readme",
+  "devDependencies": {
+    "@symfony/webpack-encore": "^3.0.0"
+  }
+}
