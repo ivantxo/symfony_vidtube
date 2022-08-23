@@ -4,7 +4,7 @@ namespace App\Entity;
 
 use App\Repository\VideoRepository;
 use Doctrine\ORM\Mapping as ORM;
-use Doctrine\ORM\Mapping\Index as ORM;
+use Doctrine\ORM\Mapping\Index as Index;
 
 /**
  * @ORM\Entity(repositoryClass=VideoRepository::class)
