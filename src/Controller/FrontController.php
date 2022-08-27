@@ -18,7 +18,7 @@ class FrontController extends AbstractController
     }
 
 	/**
-	 * @Route("/video_list", name="video_list")
+	 * @Route("/video_list/category/{categoryname},{id}", name="video_list")
 	 */
 	public function video_list(): Response
 	{
